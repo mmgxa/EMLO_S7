@@ -10,7 +10,7 @@ Last week, we only deployed Kubeflow pipeline. This time, we install the complet
 
 ## Starting minikube
 
-I used all 4 cpus and around 6 GB of memory. Note that here we have to specify the physical CPUs (max. 4) and not the logical CPUs (max. 8).
+I used all 4 cpus and around 6 GB of memory.
 
 ![C1](./img/c1.png)  
 
